@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://admin:<password>@wfcoursecluster.5uzsima.mongodb.net/wf-course?retryWrites=true&w=majority&appName=WfCourseCluster
